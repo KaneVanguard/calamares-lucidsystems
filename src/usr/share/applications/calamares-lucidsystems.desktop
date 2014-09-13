@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Calamares Installer (experimental)
+GenericName=Calamares Installer (experimental)
+Comment=Install LucidSystems to harddisk
+Exec=gksudo /usr/bin/calamares
+Icon=calamares_lucidsystems_icon_gray_48x48
+Terminal=False
+Type=Application
+Categories=System;
